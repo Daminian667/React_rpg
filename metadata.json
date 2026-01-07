@@ -1,0 +1,5 @@
+{
+  "name": "NeuroQuest RPG",
+  "description": "A text-based RPG engine powered by Gemini 3. Play infinite adventures in a Telegram-style chat interface.",
+  "requestFramePermissions": []
+}
